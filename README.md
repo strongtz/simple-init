@@ -1,5 +1,7 @@
 ## A simple init for linux (maybe it can also run under UEFI)
 
+run workflow
+
 ### Description
 
 A linux system in a single binary (Stuffed with strange things)
